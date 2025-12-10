@@ -1,1 +1,2 @@
-# plan-zajec-2
+# plan-zajec
+Synchronizacja planu zajęć
